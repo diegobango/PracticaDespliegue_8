@@ -1,4 +1,4 @@
-# Autoria del sitio
+**# Autoria del sitio**
 Diego Bango Arduengo
 # Apunte Biografico
 Me llamo Diego Bango Arduengo, tengo 21 años y soy un estudiante de Grado de Ciclo Superior de Desarrollo de Aplicaciones en el Centro de Formacion de Avilés.
