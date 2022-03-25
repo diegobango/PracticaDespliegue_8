@@ -11,5 +11,5 @@ La tecnologias utilizadas en este proyecto son **HTML y Java.**
 En el repositorio encontraremos los archivos de nuestro proyecto de dos manera, en la carpeta **bin** encontraremos los archivos de tipo *class*, mientras que en el **src** encontraremos los archivos de tipo Java. Luego existe una carpeta llamada **doc** que es donde encontraremos el archivo *JavaDoc* de nuestro proyecto, para acceder a el iremos a la carpeta Doc y entraremos en el archivo index.html.
 # Finalidad del repostiorio
 La finalidad de este repositorio es guardar la aplicacion para la gestion de una agencia de viajes para estudiantes universitarios y realizar un archivo JavaDoc del mismo.
-
- 
+![razones-agencia-de-viajes-corporativos](https://user-images.githubusercontent.com/98315454/160107677-7b28929a-67e7-467b-a149-1d4294733b50.jpeg)
+Link a una agencia de viajes: https://www.viajeselcorteingles.es/
